@@ -1,0 +1,7 @@
+slug: ret2libc
+title: Return to Libc
+category: binary exploitation
+difficulty: hard
+points: 400
+codec: fernet
+repo_url: https://github.com/sparflag/ret2libc
